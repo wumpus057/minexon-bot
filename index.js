@@ -35,7 +35,7 @@ client.on("ready", async () => {
     const activities = [
       "oyna.cleonw.com",
       "yakura ile",
-      "Yapan kişi mrsugar"
+      "Yapan kişi wumpus"
     ];
     setInterval(() => {
       const status = activities[Math.floor(Math.random() * activities.length)];
